@@ -1,0 +1,7 @@
+name: HomeGUI
+main: com.jaaakee.homegui.HomeGUI
+version: 1.0
+author: Jaaakee
+
+commands:
+ home:

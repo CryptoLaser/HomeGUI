@@ -1,0 +1,4 @@
+# HomeGUI Configuration
+# IMPORTANT: You can only edit this configuration while the server is offline. Changes will not be saved otherwise!
+HomeGUI:
+  menuName: 'Your Home List'
